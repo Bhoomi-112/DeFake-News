@@ -67,7 +67,7 @@ streamlit run app.py
 
 ## ✨ Credits
 
-- Built by [Your Name](https://github.com/your-username)
+- Built by (https://github.com/Bhoomi-112/)
 - UI powered by [Streamlit](https://streamlit.io/)
 
 ---
